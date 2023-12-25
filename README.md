@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CODENINJA-XT
+- 🌱 I’m currently learning C language
